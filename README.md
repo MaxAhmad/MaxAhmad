@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning JavaScript, and NodeJs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, BackEnd Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing max.ahmad31@gmail.com.
+- 📫 You can contact me by emailing max.ahmad31@gmail.com.
 
 ---
 
